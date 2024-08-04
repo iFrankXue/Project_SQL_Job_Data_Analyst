@@ -241,11 +241,11 @@ During the over 20 hours learning journey on job market data analysis, I have si
 
 From this data ananlysis process, several general insights emerged:
 
-- 1. ***Top-Paying Data Analyst Jobs***: The top-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.00！
-- 2. ***Skills for Top-Paying Jobs***: According to the query result of this step, high-paying jobs in Data Analyst field require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
-- 3. ***Most In-Demand Skills***: SQL is also the most demanded skill in data analyst job market, thus making it essential for job seekers.
-- 4. ***Skills with Higher Salaries***: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are assocated with the highest average salaries, indicating a premium on niche expetise.
-- 5. ***Optimal Skills for Job Market Value***: SQL leads the demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their maket value.
+- ***Top-Paying Data Analyst Jobs***: The top-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000.00！
+- ***Skills for Top-Paying Jobs***: According to the query result of this step, high-paying jobs in Data Analyst field require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
+- ***Most In-Demand Skills***: SQL is also the most demanded skill in data analyst job market, thus making it essential for job seekers.
+- ***Skills with Higher Salaries***: Specialized skills, such as PySpark and Databricks in data technologies, Watson and DataRobot in AI platforms, are assocated with the highest average salaries, indicating a premium on niche expetise.
+- ***Optimal Skills for Job Market Value***: SQL leads the demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their maket value.
 
 ### Closing Thoughts
 
