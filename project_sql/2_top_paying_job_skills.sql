@@ -32,18 +32,14 @@ FROM
 INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
-    salary_year_avg DESC;
-
+    salary_year_avg DESC
 
 /*
-Here are the most commonly required skills from the top 10 data analyst roles in 2023:
 
-SQL: 8 mentions
-Python: 7 mentions
-Tableau: 6 mentions
-R: 4 mentions
-Snowflake, Pandas, Excel: 3 mentions each
-Azure, Bitbucket, Go, Oracle, Power BI, Confluence, Gitlab, Atlassian, Jira, AWS, Numpy: 2 mentions each
+Here's the breakdown of the most demanded skills for data analysts in 2023, based on job postings:
+SQL: Essential across all top-paying jobs with count of 14.
+Python: Highly valued for data analysis and scripting with abold count of 11.
+Tableau: Important for data visualization and highly recommended for data analyst with a bold count of 8. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
 [
   {
