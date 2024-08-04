@@ -8,9 +8,9 @@ For detail sql files, please visit 🔍 here: [Project sql folder](/project_sql/
 
 # Background
 
-This project analyzes job market data, focusing on data analyst positions. It aims to identify top-paying jobs, valuable skills, and high-demand qualifications to aid job seekers, employers, and educators.
+This project analyzes job market data📊, focusing on data analyst positions. It aims to identify top-paying jobs, valuable skills, and high-demand qualifications to aid job seekers, employers, and educators.
 
-The dataset of this project comes from [Stackoverflow](https://stackoverflow.com)'s [2023 Developer Survey](https://survey.stackoverflow.co/2023/). The CSV files are available at my [Google Drive](https://drive.google.com/drive/folders/1XGe4dxWJeZyD6lN8oWD-rC6VJ9Pyb2OT?usp=share_link)
+The dataset of this project comes from [Stackoverflow](https://stackoverflow.com)'s [2023 Developer Survey](https://survey.stackoverflow.co/2023/). The CSV files📃 are available at my [Google Drive](https://drive.google.com/drive/folders/1XGe4dxWJeZyD6lN8oWD-rC6VJ9Pyb2OT?usp=share_link)
 
 # Tools I Used
 Following this tutorial, I enhanced some skills and get some new skills for the first time. For detial, the following tools are engaged in this project:
